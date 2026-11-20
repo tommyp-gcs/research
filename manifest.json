@@ -1,0 +1,42 @@
+[
+  {
+    "tag":   "Segment Radar",
+    "title": "Cybersecurity for FIs",
+    "href":  "/research/fi-cybersecurity-scores",
+    "desc":  "18 cybersecurity providers scored across endpoint, network, fraud, identity, and compliance — ranked for community banks and credit unions.",
+    "meta":  ["🔒 5 Disciplines", "📅 November 2026", "🏢 18 Providers"],
+    "cta":   "View Radar"
+  },
+  {
+    "tag":   "Segment Radar",
+    "title": "AI Core Agents for FIs",
+    "href":  "/research/ai-core-agents-fi-scores",
+    "desc":  "Eleven AI conversational and agent platforms scored for community banks and credit unions — with quadrant mapping, CU-native flags, and acquisition alerts.",
+    "meta":  ["🏦 Banks & Credit Unions", "📅 November 2026", "🏢 11 Providers"],
+    "cta":   "View Report"
+  },
+  {
+    "tag":   "Segment Radar",
+    "title": "CU Tokenized Deposit Providers",
+    "href":  "/research/CU-tokenized-deposit-scores",
+    "desc":  "Ten tokenized deposit providers scored on the FiRadar scale — ranked by institutional readiness and credit union fit.",
+    "meta":  ["🏦 Credit Unions", "📅 November 2026", "🏢 10 Providers"],
+    "cta":   "View Report"
+  },
+  {
+    "tag":   "Conference Report",
+    "title": "FinovateFall 2026 Rankings",
+    "href":  "/research/finovate-fall-2026",
+    "desc":  "All 70 demo companies scored and ranked. See who leads in readiness, execution, and institutional fit.",
+    "meta":  ["📍 New York, NY", "📅 September 2026", "🏢 70 Companies"],
+    "cta":   "View Report"
+  },
+  {
+    "tag":   "Self-Assessment Brief",
+    "title": "2027 Bank Fintech Radar",
+    "href":  "/research/2027-fintech-moves/",
+    "desc":  "Ten moves U.S. banks and credit unions are making for 2027, with a built-in self-assessment to benchmark your institution's plan against peers.",
+    "meta":  ["🏦 Banks & Credit Unions", "📅 October 2026", "📋 10 Moves"],
+    "cta":   "Take the Assessment"
+  }
+]
